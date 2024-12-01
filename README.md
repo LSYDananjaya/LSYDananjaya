@@ -64,9 +64,14 @@
   <a href="https://instagram.com/yehara_dananjaya" target="blank">
     <img align="center" src="https://user-images.githubusercontent.com/88904952/234981169-2dd1e58f-4b7e-468c-8213-034ba62156c3.png" alt="Instagram" height="50" width="50" />
   </a>
-  <a href="mailto:yeharadananjaya@gmail.com" target="blank">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/42/Gmail_Icon.png" alt="Gmail" height="50" width="50" />
-  </a>
+<a href="mailto:yeharadananjaya@gmail.com" target="blank">
+  <img align="center" src="https://img.freepik.com/free-icon/gmail_318-42165820.jpg" alt="Gmail" height="50" width="50" />
+</a>
+
+
+
+
+
 </p>
 
 
