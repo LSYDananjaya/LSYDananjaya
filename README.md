@@ -1,4 +1,7 @@
 <div align="center">
+  <picture>
+  <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="100px" alt="About Me GIF" />
+</picture>
   <h1>Hi 👋, I'm Yehara Dananjaya</h1>
   <h3>A Passionate Frontend Developer from Sri Lanka</h3>
   
@@ -13,14 +16,17 @@
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture
 
-<picture>
-  <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50px" alt="About Me GIF" />
-</picture>
 
-<h2 style="font-family: 'Russo One', sans-serif; font-size: 28px; color: #E76F51; font-weight: bold; text-align: center;">About Me</h2>
+
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block font-weight:bold" >About Me</h2></summary>
+  </ul>
+</div>
+
 
 <p style="font-size: 18px; line-height: 1.8; font-family: 'Arial', sans-serif; text-align: justify; max-width: 800px; margin: 0 auto;">
-  Hi, I'm <strong>Yehara Dananjaya</strong>, a passionate <strong>Frontend Developer</strong> from <strong>Sri Lanka</strong>. I specialize in building beautiful, user-friendly web applications with a focus on clean, efficient code. With a keen eye for detail, I am constantly learning and experimenting with the latest technologies to deliver optimal user experiences.
+  I specialize in building beautiful, user-friendly web applications with a focus on clean, efficient code. With a keen eye for detail, I am constantly learning and experimenting with the latest technologies to deliver optimal user experiences.
 </p>
 
 <p style="font-size: 18px; line-height: 1.8; font-family: 'Arial', sans-serif; text-align: justify; max-width: 800px; margin: 20px auto;">
@@ -32,8 +38,13 @@
 </p>
 
 
+---
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block font-weight:bold">🚀 What I'm Learning Right Now</h2></summary>
+  </ul>
+</div>
 
-<h3 style="font-family: 'Russo One', sans-serif; font-size: 24px; color: #E76F51; font-weight: bold; text-align: center; margin-top: 40px;">🚀 What I'm Learning Right Now</h3>
 
 <ul style="font-size: 18px; font-family: 'Arial', sans-serif; line-height: 1.8; text-align: left; max-width: 800px; margin: 0 auto;">
   <li>Angular</li>
@@ -41,9 +52,7 @@
   <li>AWS</li>
 </ul>
 
-<p style="font-size: 18px; line-height: 1.8; font-family: 'Arial', sans-serif; text-align: center; margin-top: 40px;">
-  If you’re looking for someone who is constantly challenging themselves and eager to create clean, efficient, and accessible designs, feel free to reach out!
-</p>
+
 
 
 
@@ -51,8 +60,12 @@
 
 
 ---
-
-### 🌐 Connect with Me  
+ 
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block; font-weight:bold">🌐 Connect with Me</h2></summary>
+  </ul>
+</div>
 <!-- Social Media Links -->
 <p align="center">
   <a href="https://linkedin.com/in/yehara-dananjaya" target="blank">
@@ -65,7 +78,7 @@
     <img align="center" src="https://user-images.githubusercontent.com/88904952/234981169-2dd1e58f-4b7e-468c-8213-034ba62156c3.png" alt="Instagram" height="50" width="50" />
   </a>
 <a href="mailto:yeharadananjaya@gmail.com" target="blank">
-  <img align="center" src="https://img.freepik.com/free-icon/gmail_318-42165820.jpg" alt="Gmail" height="50" width="50" />
+  <img align="center" src="https://static-00.iconduck.com/assets.00/gmail-icon-512x512-qp7vijfd.png" alt="Gmail" height="50" width="50" />
 </a>
 
 
@@ -76,13 +89,12 @@
 
 
 
----
 
 
 
 ---
 
-### 🧑🏻‍💻 Technologies That I Know👨🏻‍💻  
+
 <div id="user-content-toc">
   <ul align="center">
     <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
@@ -125,8 +137,12 @@
 </p>
 
 ---
-
-### 📊 GitHub Stats  
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block; font-weight:bold">📊 GitHub Stats</h2></summary>
+  </ul>
+</div>
+ 
 <p align="center">
   <!--- stats (start) -->
 <table align="center">
