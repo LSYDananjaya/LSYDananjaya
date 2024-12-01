@@ -24,7 +24,7 @@
 </p>
 
 <p style="font-size: 18px; line-height: 1.8; font-family: 'Arial', sans-serif; text-align: justify; max-width: 800px; margin: 20px auto;">
-  I have a deep interest in <strong>React</strong>, <strong>Next.js</strong>, and <strong>Flutter</strong>, and I am always excited to explore new frameworks and tools. Currently, I’m expanding my knowledge of <strong>Angular</strong>, <strong>TypeScript</strong>, and <strong>GraphQL</strong> to become a well-rounded developer.
+  I have a deep interest in <strong>React</strong>, <strong>Next.js</strong>, and <strong>Flutter</strong>, and I am always excited to explore new frameworks and tools. Currently, I’m expanding my knowledge of <strong>Angular</strong>, <strong>React Native</strong>, and <strong>AWS</strong> to become a well-rounded developer.
 </p>
 
 <p style="font-size: 18px; line-height: 1.8; font-family: 'Arial', sans-serif; text-align: justify; max-width: 800px; margin: 20px auto;">
