@@ -31,15 +31,7 @@
   When I’m not coding, you’ll find me exploring <strong>competitive programming challenges</strong> or designing creative <strong>UI/UX</strong> concepts. I’m always open to discussing new ideas, so feel free to ask me about anything in the <strong>web development</strong> and <strong>software engineering</strong> space.
 </p>
 
-<h3 style="font-family: 'Russo One', sans-serif; font-size: 24px; color: #E76F51; font-weight: bold; text-align: center; margin-top: 40px;">📚 Skills and Expertise</h3>
 
-<ul style="font-size: 18px; font-family: 'Arial', sans-serif; line-height: 1.8; text-align: left; max-width: 800px; margin: 0 auto;">
-  <li><strong>Frontend:</strong> React, Next.js, Angular, Flutter, HTML5, CSS3, Tailwind CSS, Material UI</li>
-  <li><strong>Backend:</strong> Node.js, Express.js, PHP, MySQL, MongoDB, GraphQL</li>
-  <li><strong>Version Control:</strong> Git, GitHub</li>
-  <li><strong>Tools:</strong> VSCode, Figma, Postman, Docker</li>
-  <li><strong>Languages:</strong> JavaScript, TypeScript, PHP, Python</li>
-</ul>
 
 <h3 style="font-family: 'Russo One', sans-serif; font-size: 24px; color: #E76F51; font-weight: bold; text-align: center; margin-top: 40px;">🚀 What I'm Learning Right Now</h3>
 
