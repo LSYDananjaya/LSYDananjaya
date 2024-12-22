@@ -3,7 +3,7 @@
   <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="100px" alt="About Me GIF" />
 </picture>
   <h1>Hi 👋, I'm Yehara Dananjaya</h1>
-  <h3>A Passionate Frontend Developer from Sri Lanka</h3>
+  <h3>A Passionate Fullstack Developer from Sri Lanka</h3>
   
   <img src="https://komarev.com/ghpvc/?username=lsydananjaya&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
   
