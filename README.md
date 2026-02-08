@@ -1,168 +1,140 @@
+<!-- Header Banner -->
 <div align="center">
-  <picture>
-  <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="100px" alt="About Me GIF" />
-</picture>
-  <h1>Hi 👋, I'm Yehara Dananjaya</h1>
-  <h3>A Passionate Fullstack Developer from Sri Lanka</h3>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Yehara%20Dananjaya&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Fullstack%20Developer%20%7C%20Sri%20Lanka%20🇱🇰&descAlignY=55&descSize=18" width="100%" />
+</div>
+
+<div align="center">
   
-  <img src="https://komarev.com/ghpvc/?username=lsydananjaya&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <!-- Typing SVG -->
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&random=false&width=600&lines=Passionate+Fullstack+Developer+%F0%9F%92%BB;React+%7C+Next.js+%7C+Flutter+Enthusiast+%F0%9F%9A%80;Building+Beautiful+Web+Experiences+%E2%9C%A8;Always+Learning%2C+Always+Growing+%F0%9F%8C%B1" alt="Typing SVG" /></a>
+
+  <br/>
   
-  <img src="https://img.shields.io/github/followers/lsydananjaya?label=Followers&style=social" alt="GitHub Followers" />
+  <img src="https://komarev.com/ghpvc/?username=lsydananjaya&label=Profile%20views&color=6AD3F7&style=for-the-badge" alt="Profile views" />
+  &nbsp;
+  <img src="https://img.shields.io/github/followers/lsydananjaya?label=Followers&style=for-the-badge&color=6AD3F7" alt="GitHub Followers" />
+
 </div>
 
+<br/>
+
+<!-- About Me Section -->
+<img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="250px" />
+
+## 🧑‍💻 About Me
+
+- 🔭 I specialize in building **beautiful, user-friendly web applications** with a focus on clean, efficient code.
+
+- 🌱 Currently expanding my knowledge in **Angular**, **React Native**, and **AWS**.
+
+- 💡 Deep interest in **React**, **Next.js**, and **Flutter** — always excited to explore new frameworks and tools.
+
+- 🏆 When I'm not coding, I'm exploring **competitive programming challenges** or designing creative **UI/UX** concepts.
+
+- 💬 Ask me about anything in **web development** and **software engineering** — I'm always open to discussing new ideas!
+
+- 📫 Reach me at **yeharadananjaya@gmail.com**
+
+<br clear="both"/>
 
 ---
 
+## 🚀 What I'm Learning Right Now
 
-<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture
-
-
-
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block font-weight:bold" >About Me</h2></summary>
-  </ul>
-</div>
-
-
-<p style="font-size: 18px; line-height: 1.8; font-family: 'Arial', sans-serif; text-align: justify; max-width: 800px; margin: 0 auto;">
-  I specialize in building beautiful, user-friendly web applications with a focus on clean, efficient code. With a keen eye for detail, I am constantly learning and experimenting with the latest technologies to deliver optimal user experiences.
-</p>
-
-<p style="font-size: 18px; line-height: 1.8; font-family: 'Arial', sans-serif; text-align: justify; max-width: 800px; margin: 20px auto;">
-  I have a deep interest in <strong>React</strong>, <strong>Next.js</strong>, and <strong>Flutter</strong>, and I am always excited to explore new frameworks and tools. Currently, I’m expanding my knowledge of <strong>Angular</strong>, <strong>React Native</strong>, and <strong>AWS</strong> to become a well-rounded developer.
-</p>
-
-<p style="font-size: 18px; line-height: 1.8; font-family: 'Arial', sans-serif; text-align: justify; max-width: 800px; margin: 20px auto;">
-  When I’m not coding, you’ll find me exploring <strong>competitive programming challenges</strong> or designing creative <strong>UI/UX</strong> concepts. I’m always open to discussing new ideas, so feel free to ask me about anything in the <strong>web development</strong> and <strong>software engineering</strong> space.
-</p>
-
-
----
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block font-weight:bold">🚀 What I'm Learning Right Now</h2></summary>
-  </ul>
-</div>
-
-
-<ul style="font-size: 18px; font-family: 'Arial', sans-serif; line-height: 1.8; text-align: left; max-width: 800px; margin: 0 auto;">
-  <li>Angular</li>
-  <li>React Native</li>
-  <li>AWS</li>
-</ul>
-
-
-
-
-
-
-
-
----
- 
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block; font-weight:bold">🌐 Connect with Me</h2></summary>
-  </ul>
-</div>
-<!-- Social Media Links -->
-<p align="center">
-  <a href="https://linkedin.com/in/yehara-dananjaya" target="blank">
-    <img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="LinkedIn" height="50" width="50" />
-  </a>
-  <a href="https://fb.com/yehara dananjaya" target="blank">
-    <img align="center" src="https://user-images.githubusercontent.com/88904952/234980676-61bfb021-ecc8-48f7-88e6-34c1b06c4a58.png" alt="Facebook" height="50" width="50" />
-  </a>
-  <a href="https://instagram.com/yehara_dananjaya" target="blank">
-    <img align="center" src="https://user-images.githubusercontent.com/88904952/234981169-2dd1e58f-4b7e-468c-8213-034ba62156c3.png" alt="Instagram" height="50" width="50" />
-  </a>
-<a href="mailto:yeharadananjaya@gmail.com" target="blank">
-  <img align="center" src="https://static-00.iconduck.com/assets.00/gmail-icon-512x512-qp7vijfd.png" alt="Gmail" height="50" width="50" />
-</a>
-
-
-
-
-
-</p>
-
-
-
-
-
-
----
-
-
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
-  </ul>
-</div>
-
-<!-- Frontend Technologies -->
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,nextjs,materialui,tailwind,angular,flutter" />
-  </a>
-</p>
-
-<!-- Backend Technologies -->
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,python,java,mysql,mongodb,prisma" />
-  </a>
-</p>
-
-<!-- Version Control & Collaboration -->
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,discord" />
-  </a>
-</p>
-
-<!-- DevOps & Tools -->
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,vscode,postman" />
-  </a>
-</p>
-
-<!-- Design & UI/UX -->
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=figma,photoshop" />
-  </a>
-</p>
-
----
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block; font-weight:bold">📊 GitHub Stats</h2></summary>
-  </ul>
-</div>
- 
-<p align="center">
-  <!--- stats (start) -->
-<table align="center">
-<tr border="none">
-<td width="50%" align="center">
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=angular" width="48" height="48" alt="Angular" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React Native" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=aws" width="48" height="48" alt="AWS" />
   
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=LSYDananjaya&theme=dark&show_icons=true&count_private=true" />
-  <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=LSYDananjaya&theme=dark&hide_border=false" /> 
-</td>
-
-<td width="50%" align="center">
-
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=LSYDananjaya&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  <br/>
   
-  </td>
-</tr>
-</table>
+  `Angular` &nbsp;&nbsp;&nbsp; `React Native` &nbsp;&nbsp;&nbsp; `AWS`
+</div>
 
-
-<!--- stats (end) -->
 ---
 
+## 🌐 Connect with Me
+
+<div align="center">
+  <a href="https://linkedin.com/in/yehara-dananjaya" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>&nbsp;
+  <a href="https://fb.com/yehara.dananjaya" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>&nbsp;
+  <a href="https://instagram.com/yehara_dananjaya" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>&nbsp;
+  <a href="mailto:yeharadananjaya@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+</div>
+
+---
+
+## 🛠️ Technologies & Tools
+
+<div align="center">
+
+### 🎨 Frontend
+<img src="https://skillicons.dev/icons?i=html,css,js,react,redux,nextjs,materialui,tailwind,angular,flutter&theme=dark" />
+
+### ⚙️ Backend & Databases
+<img src="https://skillicons.dev/icons?i=nodejs,express,python,java,mysql,mongodb,prisma&theme=dark" />
+
+### 🔧 DevOps & Tools
+<img src="https://skillicons.dev/icons?i=docker,git,github,vscode,postman,discord&theme=dark" />
+
+### 🎨 Design
+<img src="https://skillicons.dev/icons?i=figma,photoshop&theme=dark" />
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=LSYDananjaya&theme=tokyonight&no-frame=true&no-bg=false&margin-w=10&row=1&column=7" alt="GitHub Trophies" />
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=LSYDananjaya&theme=tokyonight&show_icons=true&count_private=true&hide_border=true" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=LSYDananjaya&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LSYDananjaya&theme=tokyonight&hide_border=true&layout=compact&langs_count=10" alt="Top Languages" />
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LSYDananjaya&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" />
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/LSYDananjaya/LSYDananjaya/output/github-snake-dark.svg" alt="Snake animation" />
+</div>
+
+---
+
+<div align="center">
+
+### 💡 *"Code is like humor. When you have to explain it, it's bad."* — Cory House
+
+<br/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%" />
+</div>
