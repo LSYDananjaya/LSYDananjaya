@@ -135,10 +135,20 @@
 <h2>Contribution Snake</h2>
 
 <p align="center">
-  <img
-    src="https://raw.githubusercontent.com/LSYDananjaya/LSYDananjaya/output/github-snake-dark.svg"
-    alt="Snake animation"
-  />
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/LSYDananjaya/LSYDananjaya/output/github-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/LSYDananjaya/LSYDananjaya/output/github-snake.svg"
+    />
+    <img
+      src="https://raw.githubusercontent.com/LSYDananjaya/LSYDananjaya/output/github-snake.svg"
+      alt="github-snake"
+    />
+  </picture>
 </p>
 
 <hr/>
