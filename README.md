@@ -93,12 +93,12 @@
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=LSYDananjaya&theme=tokyonight&show_icons=true&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api?username=LSYDananjaya&show_icons=true&hide_border=true&theme=tokyonight&cache_seconds=21600"
     height="165"
     alt="GitHub stats"
   />
   <img
-    src="https://streak-stats.demolab.com?user=LSYDananjaya&theme=tokyonight&hide_border=true"
+    src="https://streak-stats.demolab.com?user=LSYDananjaya&hide_border=true&theme=tokyonight"
     height="165"
     alt="GitHub streak"
   />
@@ -106,7 +106,7 @@
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=LSYDananjaya&theme=tokyonight&hide_border=true&layout=compact&langs_count=10"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=LSYDananjaya&hide_border=true&theme=tokyonight&layout=compact&langs_count=10&cache_seconds=21600"
     height="165"
     alt="Top languages"
   />
