@@ -131,13 +131,13 @@
   />
 </p>
 
-<!-- ===================== SNAKE ===================== -->
-<h2>Contribution Snake</h2>
+<!-- ===================== CONTRIBUTION GRAPH ===================== -->
+<h2>3D Contribution Graph</h2>
 
 <p align="center">
   <img
-    src="https://raw.githubusercontent.com/LSYDananjaya/LSYDananjaya/output/github-snake-dark.svg"
-    alt="Snake animation"
+    src="https://github-profile-3d-contrib.vercel.app/api?username=LSYDananjaya&theme=tokyo-night"
+    alt="3D contribution graph"
   />
 </p>
 
