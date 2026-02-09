@@ -34,7 +34,6 @@
 
 <hr/>
 
-<!-- ===================== QUICK SNAPSHOT ===================== -->
 <h2>Snapshot</h2>
 
 <ul>
@@ -44,7 +43,6 @@
   <li><b>Contact:</b> yeharadananjaya@gmail.com</li>
 </ul>
 
-<!-- ===================== SKILLS ===================== -->
 <h2>Tech Stack</h2>
 
 <p align="center">
@@ -52,7 +50,7 @@
 </p>
 
 <details>
-  <summary><b>More tools I use (click)</b></summary>
+  <summary><b>More tools</b></summary>
   <br/>
   <p align="center">
     <img src="https://skillicons.dev/icons?i=angular,redux,materialui,prisma,python,java,docker,git,github,vscode,postman,figma,ps&theme=dark&perline=12" alt="Additional tools icons" />
@@ -61,67 +59,28 @@
 
 <hr/>
 
-<!-- ===================== FEATURED WORK ===================== -->
 <h2>Featured Projects</h2>
 
-<p>
-  <b>Tip:</b> replace <code>REPO_1</code>, <code>REPO_2</code>, <code>REPO_3</code> with your best repos.
-</p>
-
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/pin/?username=LSYDananjaya&repo=REPO_1&theme=tokyonight&hide_border=true"
-    alt="Pinned repo card 1"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/pin/?username=LSYDananjaya&repo=REPO_2&theme=tokyonight&hide_border=true"
-    alt="Pinned repo card 2"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/pin/?username=LSYDananjaya&repo=REPO_3&theme=tokyonight&hide_border=true"
-    alt="Pinned repo card 3"
-  />
+  <a href="https://github.com/LSYDananjaya?tab=repositories"><b>View my repositories</b></a> •
+  <a href="https://github.com/LSYDananjaya?tab=stars"><b>Starred projects</b></a>
 </p>
 
 <hr/>
 
-<!-- ===================== STATS ===================== -->
 <h2>GitHub Stats</h2>
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=LSYDananjaya&show_icons=true&hide_border=true&theme=tokyonight&cache_seconds=21600"
-    height="165"
-    alt="GitHub stats"
-  />
-  <img
-    src="https://streak-stats.demolab.com?user=LSYDananjaya&hide_border=true&theme=tokyonight"
-    height="165"
-    alt="GitHub streak"
-  />
+  <img src="./profile/stats.svg" height="165" alt="GitHub stats" />
+  <img src="https://streak-stats.demolab.com?user=LSYDananjaya&hide_border=true&theme=tokyonight" height="165" alt="GitHub streak" />
 </p>
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=LSYDananjaya&hide_border=true&theme=tokyonight&layout=compact&langs_count=10&cache_seconds=21600"
-    height="165"
-    alt="Top languages"
-  />
+  <img src="./profile/top-langs.svg" height="165" alt="Top languages" />
 </p>
-
-<details>
-  <summary><b>Make stats more accurate (private commits)</b></summary>
-  <br/>
-  By default, these cards focus on public data. If you want private counts, the official approach is to self-host the service using your GitHub token.  
-  See docs: https://github.com/anuraghazra/github-readme-stats
-</details>
 
 <hr/>
 
-<!-- ===================== ACTIVITY ===================== -->
 <h2>Activity</h2>
 
 <p align="center">
@@ -131,23 +90,13 @@
   />
 </p>
 
-<!-- ===================== SNAKE ===================== -->
 <h2>Contribution Snake</h2>
 
 <p align="center">
   <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/LSYDananjaya/LSYDananjaya/output/github-snake-dark.svg"
-    />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/LSYDananjaya/LSYDananjaya/output/github-snake.svg"
-    />
-    <img
-      src="https://raw.githubusercontent.com/LSYDananjaya/LSYDananjaya/output/github-snake.svg"
-      alt="github-snake"
-    />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LSYDananjaya/LSYDananjaya/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LSYDananjaya/LSYDananjaya/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/LSYDananjaya/LSYDananjaya/output/github-snake.svg" />
   </picture>
 </p>
 
